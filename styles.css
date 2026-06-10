@@ -17,7 +17,8 @@ img{
     flex-direction: column;
     flex-shrink: 1;
     padding: 20px 120px 100px;
-    gap: 100px;
+    gap: 200px;
+    height: 100vh;
 }
 
 .head1 a {
@@ -57,7 +58,7 @@ img{
 }
 
 .box1-1 img{
-    width: 400px;
+    width: 600px;
 }
 
 button{
